@@ -49,3 +49,23 @@ Stores contact information:
 - `int main()`: Menu-driven interface for user interaction.
 
 ---
+
+## 🛠️ Usage
+
+1. **Compile the program**:  
+   Use a C compiler (like `gcc`) to compile:
+   ```
+   gcc -o call_log_system main.c
+   ```
+2. **Run the executable**:
+    ```
+    ./call_log_system
+    ```
+3. **Follow the on-screen menu**: <br>
+  ```1```: Call number <br>
+  ```2```:Get the call logs <br>
+  ```3```: Clear logs of a number <br>
+  ```4```: Delete a contact <br>
+  ```5```: Exit the call log system <br>
+
+---
