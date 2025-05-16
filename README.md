@@ -69,3 +69,10 @@ Stores contact information:
   ```5```: Exit the call log system <br>
 
 ---
+
+## 📌 Notes
+
+1. Ensure you handle dynamic memory allocation carefully to prevent memory leaks.
+2. Extend the program for file storage if persistent data saving is needed.
+
+---
